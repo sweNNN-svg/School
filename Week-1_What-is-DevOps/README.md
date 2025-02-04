@@ -30,11 +30,11 @@
 	2. Örnek: "Ops takımı, geliştiricilerle aynı süreçte çalışmaya alışkın değilse çatışma çıkabilir."
 
 6. **DevOps "Nedir" vs. "Ne Değildir"?**
- **| Nedir | Ne Değildir |**
- |------------------------|--------------------------|
- | Kültürel bir dönüşüm. | Sadece Jenkins ve Docker değil. |
- | CI/CD + İzleme + Test. | Sadece otomasyon değil. |
- | Sürekli iyileştirme. | Bir kerelik kurulum değil. |
+| Nedir | Ne Değildir |
+|-------|-------------|
+| Kültürel bir dönüşüm | Sadece Jenkins ve Docker değil |
+| CI/CD + İzleme + Test | Sadece otomasyon değil |
+| Sürekli iyileştirme | Bir kerelik kurulum değil |
 
 7. **DevOps Mühendisi Olmak İçin**
 	1. **Yapılması Gerekenler:**
