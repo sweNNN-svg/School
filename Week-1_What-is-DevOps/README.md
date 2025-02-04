@@ -53,3 +53,15 @@
 	3. **Post-Modern Analiz:** Hatalardan ders çıkar, süreçleri iyileştir.
 
 **Özet:** DevOps, yazılımı hızlı ve güvenilir şekilde teslim etmek için **ekip kültürü**, **otomasyon** ve **sürekli öğrenme** gerektiren bir yol haritasıdır. Başarı için araçlardan çok, insanların iş birliği ve açık iletişim önemlidir.
+
+
+
+| Month    | Savings |
+
+| -------- | ------- |
+
+| January  | $250    |
+
+| February | $80     |
+
+| March    | $420    |
