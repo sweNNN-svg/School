@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week-2_Linux-Basics/Ödev-1-Çözüm.md",
+                "file": "Week-2_Linux-Basics/Linux-Basic-Projects/Sunucu Performans İstatistikleri.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ödev-1-Çözüm"
+              "title": "Sunucu Performans İstatistikleri"
             }
           }
         ]
@@ -168,10 +168,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1c582269fb6b3b7",
+  "active": "46e0baa5ff4edbc5",
   "lastOpenFiles": [
-    "Week-2_Linux-Basics/Ödev-1.md",
+    "Week-2_Linux-Basics/Linux-Basic-Projects/server-stats.sh",
+    "Week-2_Linux-Basics/Linux-Basic-Projects/Yeni Metin Belgesi.txt",
     "Week-2_Linux-Basics/Ödev-1-Çözüm.md",
+    "Week-2_Linux-Basics/Linux-Basic-Projects/Sunucu Performans İstatistikleri.md",
+    "Week-2_Linux-Basics/Linux-Basic-Projects",
+    "Week-2_Linux-Basics/Ödev-1.md",
     "Week-2_Linux-Basics/README.md",
     "Untitled.md",
     "Week-1_What-is-DevOps/README.md",
