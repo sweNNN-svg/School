@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week-2_Linux-Basics/Ödev-2-Açıklamalar.md",
+                "file": "Week-3_Networking/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ödev-2-Açıklamalar"
+              "title": "README"
             }
           }
         ]
@@ -170,8 +170,10 @@
   },
   "active": "a1c582269fb6b3b7",
   "lastOpenFiles": [
-    "Week-2_Linux-Basics/Ödev-2.md",
     "Week-2_Linux-Basics/Ödev-2-Açıklamalar.md",
+    "Week-3_Networking/README.md",
+    "Week-3_Networking",
+    "Week-2_Linux-Basics/Ödev-2.md",
     "Week-2_Linux-Basics/odev-2-cozum.sh",
     "Week-2_Linux-Basics/Yeni Metin Belgesi.txt",
     "Week-2_Linux-Basics/Ödev-2-Çözüm.md",
