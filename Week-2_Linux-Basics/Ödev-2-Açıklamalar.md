@@ -7,8 +7,8 @@
 
 Script dosyasına çalıştırılabilirlik izni vermek için terminalde şu komutu çalıştırabilirsiniz:
 
-chmod +x isim_soyisim.sh
+`chmod +x isim_soyisim.sh`
 
 Scripti çalıştırmak için ise:
 
-./isim_soyisim.sh
+`./isim_soyisim.sh`
