@@ -25,15 +25,15 @@
     `google.com` → 172.217.169.14 gibi domainleri IP'ye çevirir.
     
 - **Araçlar**:
-- `nslookup google.com    # Temel DNS sorgusu`
-- `dig google.com         # Detaylı DNS bilgisi`
+	- `nslookup google.com    # Temel DNS sorgusu`
+	- `dig google.com         # Detaylı DNS bilgisi`
 
 ### **Yönlendirme (Routing)**
 
 - **Varsayılan Ağ Geçidi (Default Gateway)**: Yerel ağdan çıkış noktası.
     
 - **Yönlendirme Tablosu**:
-- `ip route    # Mevcut yönlendirme kurallarını gösterir`
+	- `ip route    # Mevcut yönlendirme kurallarını gösterir`
 
 ## **3. Ağ Yapılandırma Dosyaları**
 
@@ -46,32 +46,32 @@
         
 ### **Örnek Komutlar**
 
-`cat /etc/hosts        # Yerel hostname-IP eşleşmeleri`
-`cat /etc/resolv.conf  # Aktif DNS sunucularını gösterir`
+- `cat /etc/hosts        # Yerel hostname-IP eşleşmeleri`
+- `cat /etc/resolv.conf  # Aktif DNS sunucularını gösterir`
 
 ## **4. Temel Ağ Komutları**
 
 ### **IP Konfigürasyonu**
 
-`ip addr       # Tüm ağ arayüzlerini ve IP'leri listeler`
-`ifconfig      # Eski versiyon (kullanımı azaldı)`
+- `ip addr       # Tüm ağ arayüzlerini ve IP'leri listeler`
+- `ifconfig      # Eski versiyon (kullanımı azaldı)`
 
 ### **Bağlantı Testi**
 
-`ping 8.8.8.8          # İnternet erişimini test eder`
-`traceroute google.com # Paketlerin izlediği yolu gösterir`
+- `ping 8.8.8.8          # İnternet erişimini test eder`
+- `traceroute google.com # Paketlerin izlediği yolu gösterir`
 
 ### **Ağ Arayüz Yönetimi**
 
-`ip link set eth0 up    # Arayüzü aktifleştir`
-`ip link set eth0 down  # Arayüzü kapat`
-`nmcli                   # NetworkManager CLI aracı`
+- `ip link set eth0 up    # Arayüzü aktifleştir`
+- `ip link set eth0 down  # Arayüzü kapat`
+- `nmcli                   # NetworkManager CLI aracı`
 
 ### **Trafik İzleme**
 
-`netstat -tuln  # Aktif bağlantıları ve portları listeler`
-`ss -tuln       # Netstat'ın modern alternatifi`
-`tcpdump -i eth0 port 80  # HTTP trafiğini dinle`
+- `netstat -tuln  # Aktif bağlantıları ve portları listeler`
+- `ss -tuln       # Netstat'ın modern alternatifi`
+- `tcpdump -i eth0 port 80  # HTTP trafiğini dinle`
 
 ## **5. Sorun Giderme Adımları**
 
@@ -83,7 +83,6 @@
     
 - Yavaş ağ performansı.
     
-
 ### **Çözüm Yolları**
 
 1. **Arayüz Durumu**:
@@ -108,8 +107,8 @@
 
 ### **Trafik Analizi (tcpdump)**
 
-`sudo tcpdump -i eth0 port 80     # HTTP trafiğini dinle`
-`sudo tcpdump -w capture.pcap     # Trafiği dosyaya kaydet`
+- `sudo tcpdump -i eth0 port 80     # HTTP trafiğini dinle`
+- `sudo tcpdump -w capture.pcap     # Trafiği dosyaya kaydet`
 
 ## **7. İleri Düzey Araçlar**
 
