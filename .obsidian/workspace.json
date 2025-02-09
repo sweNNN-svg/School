@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week-10_Monitoring/README.md",
+                "file": "Week-4_Docker/Docker-Basic-Project/Dockerfile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Dockerfile"
             }
           }
         ]
@@ -170,17 +170,23 @@
   },
   "active": "a1c582269fb6b3b7",
   "lastOpenFiles": [
-    "README.md",
+    "Week-4_Docker/Docker-Basic-Project/Basic-Dockerfile-Project.md",
+    "Week-4_Docker/Docker-Basic-Project/Dockerfile.md",
+    "Week-4_Docker/Dockerfile.md",
+    "Week-4_Docker/Ödev-1-Çözüm.md",
+    "Week-4_Docker/Docker-Basic-Project",
+    "Week-4_Docker/Ödev-1.md",
+    "Week-5_Git_and_Github/Ödev-1.md",
+    "Week-4_Docker/README.md",
+    "Week-5_Git_and_Github/README.md",
     "Week-10_Monitoring/README.md",
+    "README.md",
     "Week-9_Jenkins/README.md",
     "Week-8_Ansible/README.md",
     "Week-7_Terraform/README.md",
     "Week-6_Cloud/README.md",
     "Week-2_Linux-Basics/Linux-Basic-Projects/Sunucu Performans İstatistikleri.md",
     "Week-2_Linux-Basics/Ödev-1-Çözüm.md",
-    "Week-5_Git_and_Github/Ödev-1.md",
-    "Week-5_Git_and_Github/README.md",
-    "Week-4_Docker/README.md",
     "Week-10_Monitoring",
     "Week-9_Jenkins",
     "Week-8_Ansible",
@@ -193,7 +199,6 @@
     "Week-3_Networking",
     "Week-2_Linux-Basics/Ödev-2.md",
     "Week-2_Linux-Basics/odev-2-cozum.sh",
-    "Week-2_Linux-Basics/Yeni Metin Belgesi.txt",
     "Week-2_Linux-Basics/Ödev-2-Çözüm.md",
     "Week-2_Linux-Basics/Ödev-1.md",
     "Week-2_Linux-Basics/README.md",
