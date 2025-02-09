@@ -1,4 +1,4 @@
-# ````
+
 ```
 İlk Dockerfile: Basit imaj oluşturma
 FROM ubuntu:latest
