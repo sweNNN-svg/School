@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week-7_Terraform/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -170,6 +170,9 @@
   },
   "active": "a1c582269fb6b3b7",
   "lastOpenFiles": [
+    "Week-7_Terraform/README.md",
+    "Yeni Metin Belgesi.txt",
+    "Week-7_Terraform/Terraform",
     "Week-7_Terraform/Terraform/terraform.tfstate.backup",
     "Week-7_Terraform/Terraform/terraform.tfstate",
     "Week-7_Terraform/Terraform/main.tf",
@@ -183,7 +186,6 @@
     "Week-4_Docker/Docker-Basic-Project/Dockerfile.md",
     "Week-4_Docker/Docker-Basic-Project/Basic-Dockerfile-Project.md",
     "Week-6_Cloud/README.md",
-    "Week-6_Cloud/AWS-Basic-Project",
     "Week-5_Git_and_Github/Ödev-1-Çözüm.md",
     "Week-5_Git_and_Github/Ödev-1.md",
     "Week-5_Git_and_Github/README.md",
@@ -191,15 +193,12 @@
     "Week-4_Docker/Ödev-1-Çözüm.md",
     "Week-4_Docker/Ödev-1.md",
     "Week-4_Docker/Dockerfile.md",
-    "Week-4_Docker/Docker-Basic-Project",
     "Week-10_Monitoring/README.md",
     "README.md",
     "Week-9_Jenkins/README.md",
     "Week-8_Ansible/README.md",
-    "Week-7_Terraform/README.md",
     "Week-2_Linux-Basics/Linux-Basic-Projects/Sunucu Performans İstatistikleri.md",
     "Week-2_Linux-Basics/Ödev-1-Çözüm.md",
-    "Week-10_Monitoring",
     "Week-3_Networking/README.md",
     "Week-2_Linux-Basics/Ödev-2-Açıklamalar.md",
     "Week-2_Linux-Basics/Ödev-2.md",
