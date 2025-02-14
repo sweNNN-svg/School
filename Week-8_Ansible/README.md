@@ -44,18 +44,18 @@ Ansible, **mevcut shell bilginizi kullanarak** yapılandırma yönetimini kola
 
 Örneğin:
 ```
-- name: Nginx'i yükle ve başlat  
-  apt:  
-    name: nginx  
-    state: present  
-  notify:  
-    - nginx'i_başlat  
+- name: Install and start Nginx
+  apt:
+    name: nginx
+    state: present
+  notify:
+    - start_nginx
 
-handlers:  
-  - name: nginx'i_başlat  
-    service:  
-      name: nginx  
-      state: started  
+handlers:
+  - name: start_nginx
+    service:
+      name: nginx
+      state: started
 ```
 
 Bu playbook, Nginx'in yüklü olduğundan emin olur ve çalışır durumda tutar.
@@ -68,7 +68,7 @@ Bu playbook, Nginx'in yüklü olduğundan emin olur ve çalışır durumda tutar
     
 - **Merkezi Yönetim:** Tüm sunucuları tek bir yerden yönetirsiniz.
     
-- **DevOps'in İsviçre Çakısı:** Sadece yapılandırma değil, deployment, orchestration ve otomasyon için de kullanılır.
+- **DevOps'un İsviçre Çakısı:** Sadece yapılandırma değil, deployment, orchestration ve otomasyon için de kullanılır.
     
 
 ---
@@ -78,8 +78,6 @@ Bu playbook, Nginx'in yüklü olduğundan emin olur ve çalışır durumda tutar
 - **Configuration Management**, sistemleri otomatik ve dokümante edilmiş şekilde yönetmektir.
     
 - **Ansible**, bu süreci _shell bilgisiyle başlayarak_ kolaylaştıran, hafif ve güçlü bir araçtır.
-    
-- Snowflake sunucuları tarihe gömün, playbook'larla geleceği inşa edin!
 
 ---
 
