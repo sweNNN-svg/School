@@ -1,0 +1,5 @@
+---
+- name: SSH Public Key ekle
+  authorized_key:
+    user: root                  # Key'i ekleyeceğimiz kullanıcı
+    key: "{{ ssh_public_key }}" # Değişken olarak tanımlanacak

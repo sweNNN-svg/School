@@ -1,0 +1,33 @@
+---
+- name: Paket önbelleğini güncelle
+  dnf:
+    update_only: yes
+  become: yes
+
+- name: Tüm paketleri yükselt
+  dnf:
+    name: "*"
+    state: latest
+  become: yes
+
+- name: Temel araçları yükle (curl, wget, vim)
+  dnf:
+    name:
+      - curl
+      - wget
+      - vim
+    state: present
+  become: yes
+
+- name: Fail2ban yükle
+  dnf:
+    name: fail2ban
+    state: present
+  become: yes
+
+- name: Fail2ban servisini başlat
+  service:
+    name: fail2ban
+    state: started
+    enabled: yes
+  become: yes

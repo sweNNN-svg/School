@@ -1,0 +1,17 @@
+---
+- name: Nginx'i yükle
+  dnf:
+    name: nginx
+    state: present
+
+- name: Nginx servisini başlat
+  service:
+    name: nginx
+    state: started
+    enabled: yes
+
+- name: Varsayılan Nginx sitesini devre dışı bırak
+  file:
+    path: /etc/nginx/sites-enabled/default
+    state: absent
+  notify: Nginx'i yeniden başlat

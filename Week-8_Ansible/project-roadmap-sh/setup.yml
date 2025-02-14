@@ -1,0 +1,8 @@
+---
+- name: Sunucu Konfigürasyonu
+  hosts: webserver    # inventory.ini'deki grup adı
+  become: yes         # Sudo yetkisi ile çalış
+  roles:
+    - { role: base, tags: ['base'] }
+    - { role: ssh, tags: ['ssh'] }
+    - { role: nginx, tags: ['nginx'] }
