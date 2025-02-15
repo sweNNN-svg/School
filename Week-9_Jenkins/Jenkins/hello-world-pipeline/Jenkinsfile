@@ -1,0 +1,26 @@
+pipeline {
+    agent any
+    
+    stages {
+        stage('Checkout') {
+            steps {
+                echo 'Checking out from Git...'
+                // Git checkout işlemi Jenkins tarafından otomatik yapılacak
+            }
+        }
+        
+        stage('Hello') {
+            steps {
+                echo 'Hello World from my first Jenkins Pipeline!'
+                sh 'pwd' // Bulunduğumuz dizini göster
+                sh 'ls -la' // Dizin içeriğini listele
+            }
+        }
+        
+        stage('Finish') {
+            steps {
+                echo 'My first pipeline finished successfully!'
+            }
+        }
+    }
+}
