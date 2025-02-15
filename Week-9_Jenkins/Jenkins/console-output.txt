@@ -1,0 +1,67 @@
+Started by user haci
+Obtained Jenkinsfile from git https://github.com/sweNNN-svg/Jenkins.git
+[Pipeline] Start of Pipeline
+[Pipeline] node
+Running on Jenkins in /var/lib/jenkins/workspace/hello-world-pipeline
+[Pipeline] {
+[Pipeline] stage
+[Pipeline] { (Declarative: Checkout SCM)
+[Pipeline] checkout
+Selected Git installation does not exist. Using Default
+The recommended git tool is: NONE
+No credentials specified
+Cloning the remote Git repository
+Cloning repository https://github.com/sweNNN-svg/Jenkins.git
+ > git init /var/lib/jenkins/workspace/hello-world-pipeline # timeout=10
+Fetching upstream changes from https://github.com/sweNNN-svg/Jenkins.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.43.0'
+ > git fetch --tags --force --progress -- https://github.com/sweNNN-svg/Jenkins.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/sweNNN-svg/Jenkins.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+Avoid second fetch
+ > git rev-parse refs/remotes/origin/main^{commit} # timeout=10
+Checking out Revision 720a9568a1fe04a6d1e5bc3b52b4bee39965db12 (refs/remotes/origin/main)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 720a9568a1fe04a6d1e5bc3b52b4bee39965db12 # timeout=10
+Commit message: "edit"
+First time build. Skipping changelog.
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] withEnv
+[Pipeline] {
+[Pipeline] stage
+[Pipeline] { (Checkout)
+[Pipeline] echo
+Checking out from Git...
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] stage
+[Pipeline] { (Hello)
+[Pipeline] echo
+Hello World from my first Jenkins Pipeline!
+[Pipeline] sh
++ pwd
+/var/lib/jenkins/workspace/hello-world-pipeline
+[Pipeline] sh
++ ls -la
+total 20
+drwxr-xr-x 3 jenkins jenkins 4096 Feb 15 15:28 .
+drwxr-xr-x 4 jenkins jenkins 4096 Feb 15 15:28 ..
+drwxr-xr-x 8 jenkins jenkins 4096 Feb 15 15:28 .git
+-rw-r--r-- 1 jenkins jenkins  657 Feb 15 15:28 Jenkinsfile
+-rw-r--r-- 1 jenkins jenkins  111 Feb 15 15:28 README.md
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] stage
+[Pipeline] { (Finish)
+[Pipeline] echo
+My first pipeline finished successfully!
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] }
+[Pipeline] // withEnv
+[Pipeline] }
+[Pipeline] // node
+[Pipeline] End of Pipeline
+Finished: SUCCESS
