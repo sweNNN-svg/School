@@ -157,6 +157,7 @@ Bu rehber, DevOps dünyasında sıkça kullanılan izleme (monitoring) teknoloji
 
 ---
 
+
 ### Önemli Notlar
 - Bu araçların çoğu açık kaynak alternatiflerine sahiptir
 - Başlangıç için Zabbix, Grafana ve SonarQube iyi bir temel oluşturur
