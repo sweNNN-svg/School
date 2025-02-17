@@ -1,7 +1,7 @@
 # HangiKredi DevOps School Workshop
 
-Bu repo, **HangiKredi DevOps School**’da 14 hafta boyunca edindiğim bilgileri ve yaptığım mini projeleri içermektedir.  
-Eğitim süresince DevOps kültürünü, [Linux](https://www.linux.org/), [Networking](https://en.wikipedia.org/wiki/Computer_network), [Docker](https://www.docker.com/), [CI/CD (Jenkins)](https://www.jenkins.io/), [Git/GitHub](https://git-scm.com/), [Cloud](https://aws.amazon.com/what-is-cloud-computing/), [Terraform](https://www.terraform.io/), [Monitoring](https://grafana.com/), Log Yönetimi ve Güvenlik gibi konuları inceledim.  
+Bu repo, **HangiKredi DevOps School**’da 14 ders boyunca edindiğim bilgileri ve yaptığım mini projeleri içermektedir. - Eğitim süresince [DevOps Nedir?](https://en.wikipedia.org/wiki/DevOps), [Linux](https://www.linux.org/), [Networking](https://en.wikipedia.org/wiki/Computer_network), [Docker](https://www.docker.com/), [Git/GitHub](https://git-scm.com/), [Cloud](https://aws.amazon.com/what-is-cloud-computing/), [Terraform](https://www.terraform.io/), [Ansible](https://www.ansible.com/), [CI/CD (Jenkins)](https://www.jenkins.io/) ve [Monitoring](https://grafana.com/)
+gibi konulara odaklandım. - Her hafta için oluşturduğum klasörlerde notlar, örnek uygulamalar ve mini projeler yer alıyor. Aşağıda her haftaya ait klasörlerin linklerini ve içerik özetlerini bulabilirsiniz.
 
 Bu repo içerisindeki her klasör, ilgili haftanın notlarını, örnek projelerini ve ek kaynaklarını içerir.
 
