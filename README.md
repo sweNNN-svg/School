@@ -21,9 +21,9 @@ Bu repo içerisindeki her klasör, ilgili haftanın notlarını, örnek projeler
 5. [Week 5 - Git & GitHub](Week-05_Git_and_Github/README.md)
 6. [Week 6 - Cloud](Week-06_Cloud/README.md)
 7. [Week 7 - Terraform](Week-07_Terraform/README.md)
-8. [Week 9 - Jenkins](Week-09_Jenkins/README.md)
-9. [Week 10 - Monitoring](Week-10_Monitoring/README.md)
-10. ...
+8. [Week 8 - Ansible](Week-08_Jenkins/README.md)
+9. [Week 9 - Jenkins](Week-09_Jenkins/README.md)
+10. [Week 10 - Monitoring](Week-10_Monitoring/README.md)
 
 ---
 
