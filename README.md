@@ -56,7 +56,7 @@ Linux dosya sistemi, temel komutlar, kullanıcı yönetimi, paket yönetimi ve b
 **Link**: [Week-03_Networking/README.md](Week-03_Networking/README.md)
 
 **Açıklama**:  
-Temel ağ protokolleri (TCP/UDP), subnetting, router/switch konfigürasyon mantığı ve genel ağ topolojileri hakkında bilgiler edindik. Ağ katmanlarını daha iyi anlamak için çeşitli laboratuvar uygulamaları yaptık.
+Linux'ta ağ yönetimine giriş yaptık. IP adresleme, DNS, routing, ağ yapılandırma dosyaları, temel ağ komutları, sorun giderme, nmap ve ufw konularında bilgiler edindik. Bu kavramları daha iyi anlamak için çeşitli laboratuvar uygulamaları gerçekleştirdik.
 
 ---
 
