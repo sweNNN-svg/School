@@ -1,6 +1,6 @@
-# HangiKredi DevOps School Workshop
+# DevOps School Workshop
 
-Bu repo, **HangiKredi DevOps School**’da 14 ders boyunca edindiğim bilgileri ve yaptığım mini projeleri içermektedir. - Eğitim süresince [DevOps Nedir?](https://en.wikipedia.org/wiki/DevOps), [Linux](https://www.linux.org/), [Networking](https://en.wikipedia.org/wiki/Computer_network), [Docker](https://www.docker.com/), [Git/GitHub](https://git-scm.com/), [Cloud](https://aws.amazon.com/what-is-cloud-computing/), [Terraform](https://www.terraform.io/), [Ansible](https://www.ansible.com/), [CI/CD (Jenkins)](https://www.jenkins.io/) ve [Monitoring](https://grafana.com/)
+Bu repo, ** DevOps School**’da 14 ders boyunca edindiğim bilgileri ve yaptığım mini projeleri içermektedir. - Eğitim süresince [DevOps Nedir?](https://en.wikipedia.org/wiki/DevOps), [Linux](https://www.linux.org/), [Networking](https://en.wikipedia.org/wiki/Computer_network), [Docker](https://www.docker.com/), [Git/GitHub](https://git-scm.com/), [Cloud](https://aws.amazon.com/what-is-cloud-computing/), [Terraform](https://www.terraform.io/), [Ansible](https://www.ansible.com/), [CI/CD (Jenkins)](https://www.jenkins.io/) ve [Monitoring](https://grafana.com/)
 gibi konulara odaklandım. - Her hafta için oluşturduğum klasörlerde notlar, örnek uygulamalar ve mini projeler yer alıyor. Aşağıda her haftaya ait klasörlerin linklerini ve içerik özetlerini bulabilirsiniz.
 
 Bu repo içerisindeki her klasör, ilgili haftanın notlarını, örnek projelerini ve ek kaynaklarını içerir.
@@ -137,7 +137,6 @@ Uygulamaların ve altyapının izlenmesi, Prometheus/Grafana kullanarak metrik t
 
 
 ---
-
 ## Sertifika
 Eğitimin tüm aşamalarını başarıyla tamamlayarak sertifika almaya hak kazandım.  
 Sertifikamı [LinkedIn profilimde](https://www.linkedin.com/) inceleyebilirsiniz.  
@@ -146,4 +145,4 @@ Sertifikamı [LinkedIn profilimde](https://www.linkedin.com/) inceleyebilirsiniz
 - [Official Docker Docs](https://docs.docker.com/)
 - [Terraform Docs](https://developer.hashicorp.com/terraform/docs)
 - [Grafana Docs](https://grafana.com/docs/grafana/latest/)
-- HangiKredi DevOps School eğitmeni Erkan Çetiner Bey'e ve HangiKredi ekibine teşekkürler!
+- DevOps School eğitmenimize ve ekibe teşekkürler!
