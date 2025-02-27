@@ -139,7 +139,7 @@ Uygulamaların ve altyapının izlenmesi, Prometheus/Grafana kullanarak metrik t
 ---
 ## Sertifika
 Eğitimin tüm aşamalarını başarıyla tamamlayarak sertifika almaya hak kazandım.  
-Sertifikamı [LinkedIn profilimde](https://www.linkedin.com/) inceleyebilirsiniz.  
+Sertifikamı [LinkedIn profilimde](https://www.linkedin.com/in/emre-h/) inceleyebilirsiniz.  
 
 ## Kaynaklar ve Teşekkür
 - [Official Docker Docs](https://docs.docker.com/)
