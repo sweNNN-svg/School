@@ -1,5 +1,5 @@
 # Git: Versiyon Kontrol Sistemi
-
+ 
 ## 1. Git Nedir?
 
 Git, 2005 yılında Linus Torvalds tarafından Linux çekirdeği için geliştirilen dağıtık bir versiyon kontrol sistemidir. Ana amaçları:

@@ -1,5 +1,5 @@
 1. **DevOps Nedir?**
-	- **Kültür + Araçlar + Süreçler:** Yazılım geliştirme (Dev) ve operasyon (Ops) ekiplerinin iş birliğini artıran, teslimat hızını ve yazılım kalitesini iyileştiren bir yaklaşım.
+	- **Kültür + Araçlar + Süreçler:** Yazılım geliştirme (Dev) ve operasyon (Ops) ekiplerinin iş birliğini artıran, teslimat hızını ve yazılım kalitesini i yileştiren bir yaklaşım.
 	- **Temel Odaklar:**
 		- **Otomasyon** (tekrarlı işlerin otomatikleştirilmesi).
 		- **Ekip İş Birliği** (silo yapıların kırılması).

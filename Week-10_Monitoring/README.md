@@ -1,4 +1,4 @@
-# DevOps İzleme Teknolojileri Rehberi
+# DevOps İzleme Teknolojileri Rehberi 
 
 Bu rehber, DevOps dünyasında sıkça kullanılan izleme (monitoring) teknolojilerini açıklamaktadır. 
 

@@ -1,5 +1,5 @@
 **1. Linux Nedir?**
-
+ 
 - Açık kaynaklı, ücretsiz bir işletim sistemi çekirdeğidir.
     
 - Windows/macOS'ten farklı olarak, dağıtımlar (Ubuntu, Fedora, Debian vb.) halinde kullanılır.

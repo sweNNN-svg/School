@@ -1,5 +1,5 @@
 ### Docker Nedir?
-
+ 
 Docker, uygulamaların bağımsız ve taşınabilir konteynerler içinde çalışmasını sağlayan açık kaynaklı bir platformdur. Konteynerler, uygulamaların farklı ortamlarda tutarlı bir şekilde çalışmasını garanti eder.
 
 ### Docker Neden Önemlidir?

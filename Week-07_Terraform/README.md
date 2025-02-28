@@ -1,6 +1,6 @@
 Infrastructure as Code nedir?
 Kod olarak altyapının (IaC) arkasındaki fikir, altyapınızı tanımlamak, dağıtmak, güncellemek ve yok etmek için kod yazmanız ve çalıştırmanızdır. Bu, operasyonların tüm yönlerini, hatta donanımı temsil eden yönlerini (örneğin fiziksel sunucuların kurulması) bile yazılım olarak ele aldığınız önemli bir zihniyet değişimini temsil eder.
-
+ 
 ---
 
 # Infrastructure as Code (IaC) Yararları

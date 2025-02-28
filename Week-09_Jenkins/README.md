@@ -1,11 +1,11 @@
 # Jenkins Rehberi - Başlangıç 🚀
-
+  
 ## 1. Jenkins'e Giriş
 ### Jenkins Nedir?
 - **Açık kaynak** bir CI/CD aracı
 - Build, test ve deployment süreçlerini **otomatikleştirir**
-- Java tabanlı çalışır (bu yüzden Java kurulumu gerekir)
-
+- Java tabanlı çalışır (bu yüzden Java kurulumu gerekir).
+  
 ### Neden Jenkins Öğrenmeliyim?
 - DevOps dünyasında en yaygın kullanılan CI/CD araçlarından
 - Zengin plugin ekosistemi (1500+ plugin)

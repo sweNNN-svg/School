@@ -1,7 +1,7 @@
 ### 📝 **Configuration Management (Yapılandırma Yönetimi) Nedir?**
 
 **Configuration Management**, sunucuların ve sistemlerin _tutarlı_, _tekrarlanabilir_ ve _dokümante edilmiş_ bir şekilde yapılandırılmasını sağlayan bir süreçtir. Temel amacı, **"snowflake sunucular"** (el ile yapılandırılmış, benzersiz ve yeniden oluşturulması zor sistemler) sorununu ortadan kaldırmaktır. Bu sayede, sunucularınızı istediğiniz zaman sıfırdan yeniden inşa edebilir veya yüzlerce sunucuyu aynı şekilde yönetebilirsiniz.
-
+ 
 ---
 
 ### ❄️ **Snowflake Sunucu Sorunu Nedir?**

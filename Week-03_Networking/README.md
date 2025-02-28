@@ -1,5 +1,5 @@
 ## **1. Giriş: Linux'ta Ağ Yönetimi**
-
+ 
 - **Ağ Nedir?**  
     Cihazların birbirleriyle iletişim kurmasını sağlayan yapı (ör: internet, LAN).
     
